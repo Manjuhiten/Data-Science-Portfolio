@@ -25,7 +25,7 @@ This data science project series walks through step by step process of how to bu
 7.	HTML
 
 
-Project 3:Credit-Card-Fraud-Detection
+Project 3:Credit-Card-Fraud-Detection - https://github.com/Manjuhiten/Credit-Card-Fraud-Detection
 Objective
 
 The objective in this project is to build machine learning models to classify or identify fraudulent card transactions from a given card transactions data.
