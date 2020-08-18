@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-Project 1:Selling-Price-Prediction -  https://github.com/Manjuhiten/Selling-Price-Prediction
+Project 1: Used Car Price Prediction -  https://github.com/Manjuhiten/Selling-Price-Prediction
  
 This data science project series walks through step by step process of how to build a used car price prediction website. First build a model using sklearn and random forest regressor using cars dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html that allows user to enter year, showroom price, kilometres Drived, number of owners previously had etc and it will call python flask server to retrieve the predicted price. During model building covered almost all data science concepts such as data load and cleaning, feature engineering, , randomized search cv for hyperparameter tuning, k fold cross validation etc. Technology and tools used for this  this project are
 1.	Python
