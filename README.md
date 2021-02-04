@@ -10,7 +10,7 @@ This data science project series walks through step by step process of how to bu
 5.	Jupyter notebook, visual studio code and Spyder as IDE
 6.	Python flask for http server
 7.	HTML for UI
-
+![carprediction 1](https://user-images.githubusercontent.com/69395522/106889115-787b0380-66df-11eb-948a-0570af30d5a3.JPG)
 
 
 Project 2 :Real-Estate-Price-Prediction - https://github.com/Manjuhiten/-Real-Estate-Price-Prediction-Project-
